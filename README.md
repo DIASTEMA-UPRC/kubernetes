@@ -1,10 +1,10 @@
 # Diastema Kubernetes Installation
 ## Description
-DIASTEMA is using Kubernetes to be able to handle a dynamic computing cluster for the workflows of its users [[1]](https://github.com/DIASTEMA-UPRC/openstack-heat-installation/blob/main/openstack-heat/heat-apis/use-heat-apis.md#references).
+DIASTEMA is using Kubernetes to be able to handle a dynamic computing cluster for the workflows of its users [[1]](https://github.com/DIASTEMA-UPRC/kubernetes/blob/main/README.md#referencess).
 
 Kubernetes are using Master and Worker nodes to manage their workflows and scaling on their given environent.
 
-In this repository, a documentation is given regarding the way in which Kubernetes is installed in the environment of the platform DIASTEMA [[2]](https://github.com/DIASTEMA-UPRC/openstack-heat-installation/blob/main/openstack-heat/heat-apis/use-heat-apis.md#references).
+In this repository, a documentation is given regarding the way in which Kubernetes is installed in the environment of the platform DIASTEMA [[2]](https://github.com/DIASTEMA-UPRC/kubernetes/blob/main/README.md#references).
 
 ## Repository Contents
 - kubernetes-cluster
