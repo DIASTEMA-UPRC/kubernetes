@@ -1,5 +1,5 @@
 # Examples on using the Kubernetes API Server
-This guide will analyze how to contact with the Kubernetes APIs [[1]](https://github.com/karamolegkos/Diastema/blob/main/diastema/kubernetes-apis/use-k8s-apis.md#references).
+This guide will analyze how to contact with the Kubernetes APIs [[1]](https://github.com/DIASTEMA-UPRC/kubernetes/blob/main/kubernetes-apis/use-k8s-apis.md#references).
 
 I made this guide using two different machines. A test machine (The '**Alpha**' machine) and a machine having the kubernetes Master Node inside of it (The '**Beta**' machine).
 
@@ -41,7 +41,7 @@ curl $APISERVER/api --header "Authorization: Bearer $TOKEN" --insecure
 
 You can make calls from your applications, contaction the '**$APISERVER/api**' URL including the header '**Authorization**' with the value '**Bearer $TOKEN**'.
 
-Here [[2]](https://github.com/karamolegkos/Diastema/blob/main/diastema/kubernetes-apis/use-k8s-apis.md#references) is a good github repository for examples in python code
+Here [[2]](https://github.com/DIASTEMA-UPRC/kubernetes/blob/main/kubernetes-apis/use-k8s-apis.md#references) is a good github repository for examples in python code
 
 # References
 
