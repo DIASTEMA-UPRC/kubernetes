@@ -10,7 +10,7 @@ In this repository, a documentation is given regarding the way in which Kubernet
 - kubernetes-cluster
   - An MD documentation on how to install Kubernetes on any Multi-node environment with one Master and many Worker nodes.
 - kubernetes-apis
-  - An MD documentation about Kubernetes REST APIs installed with the above documentation.
+  - An MD documentation about how to use the Kubernetes REST APIs installed with the above documentation.
 
 ## References
 - [1] https://kubernetes.io/
